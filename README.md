@@ -2,10 +2,12 @@
 reduce photometrical data using Python
 
 # files
-phot70.py
-* for 70cm telescope in Lijiang Observatory
+----------
 
-phot240.py
+* phot70.py
+for 70cm telescope in Lijiang Observatory
+
+# phot240.py
 * for 240cm telescope in Lijiang Observatory
 
 phot80.py
